@@ -1,5 +1,5 @@
-"Blockchain engineer 🌐 | Decentralizing the cloud🔗 | Building Secure, Scalable Systems 💻 | contact me for collaboration🔗- 👋 Hi, I’m @olumooke
-- 👀 I’m interested in ... blockchain,cloudcomputing and software enginnering
+olumo.eth
+- 👀 I’m interested in ... blockchain and software enginnering
 - 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... blockchain project
 - 📫 How to reach me ....instagram.com/olumo.eth/
